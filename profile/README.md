@@ -1,3 +1,4 @@
+English|繁體中文
 ## This is a project for collecting college subject notes
 ## 這個專案旨在收集大學科目的筆記
 * Now has math and computer science
