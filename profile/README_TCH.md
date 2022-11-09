@@ -4,5 +4,6 @@
 ## Subjects科目
 * [Math數學](https://github.com/university-subject/Mathematic)
 * [Computer Science計算機科學](https://github.com/university-subject/Computer-Science)
+* [English-Learning英文學習](https://github.com/university-subject/English-Learning)
 ## Programming Language程式語言
 * [Programming Language程式語言](https://github.com/university-subject/Programming-Language)
